@@ -3,8 +3,6 @@
 Este guia explica como estruturar uma planilha de controle e indicadores (Dashboard) do zero, utilizando as melhores práticas de organização de dados.
 
 
----
-
 
 ## 📂 Estrutura em Abas (O Segredo da Organização)
 
@@ -43,6 +41,7 @@ A parte visual que o usuário final interage.
 * **Filtros:** Use a **Segmentação de Dados** para criar botões interativos:
     - Vá em Inserir > Segmentação de Dados. Selecione "Categoria" ou "Plataforma". Isso criará botões clicáveis para filtrar o dashboard.
 * **Design:** Remova as "Linhas de Grade" (Exibir > Desmarcar Linhas de Grade) para parecer um software, não uma planilha comum.
+* **Data das informações:** Insira de forma mais discreta a data/período ao qual se referem os dados e em que data os dados foram atualizados/calculados.
 
 ![Microsoft Excel - Dashboard Xbox_4](https://github.com/user-attachments/assets/b078fc8f-94ce-4a49-b79a-218ec386ecf5)
 
@@ -51,8 +50,6 @@ Aqui são armazenados os materiais de apoio, PDFs, documentos, estudos, etc.. Ne
 
 ![Microsoft Excel - Dashboard Xbox_5](https://github.com/user-attachments/assets/b0620bfa-d2b7-4494-9872-d0fabeac5184)
 
-
----
 
 
 ## 🛠️ Passo a Passo Resumido
