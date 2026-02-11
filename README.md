@@ -2,7 +2,9 @@
 
 Este guia explica como estruturar uma planilha de controle e indicadores (Dashboard) do zero, utilizando as melhores práticas de organização de dados.
 
+
 ---
+
 
 ## 📂 Estrutura em Abas (O Segredo da Organização)
 
@@ -49,7 +51,9 @@ Aqui são armazenados os materiais de apoio, PDFs, documentos, estudos, etc.. Ne
 
 ![Microsoft Excel - Dashboard Xbox_5](https://github.com/user-attachments/assets/b0620bfa-d2b7-4494-9872-d0fabeac5184)
 
+
 ---
+
 
 ## 🛠️ Passo a Passo Resumido
 
@@ -60,6 +64,8 @@ Aqui são armazenados os materiais de apoio, PDFs, documentos, estudos, etc.. Ne
 | **Visualizar** | Gráficos | Facilitar a leitura rápida e clara de KPIs |
 | **Filtrar** | Segmentação de Dados | Tornar o painel interativo |
 
+
 ---
+
 
 *Projeto desenvolvido para o bootcamp Santander - Excel com Inteligência Artificial - 2º Semestre da DIO.*
